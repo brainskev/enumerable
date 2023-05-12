@@ -1,5 +1,5 @@
-
 <a name="readme-top"></a>
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -22,6 +22,7 @@
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
+
 - Ruby
 <details>
   <summary>Language</summary>
@@ -31,6 +32,7 @@
 </details>
 
 ### Key Features <a name="key-features"></a>
+
 - **Add graphical user interface(GUI) to program**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -41,7 +43,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 💻 Getting Started with Morse Code <a name="getting-started"></a>
+## 💻 Getting Started with Enumerable <a name="getting-started"></a>
 
 ### Setup
 
@@ -49,22 +51,21 @@ Clone this [repository](https://github.com/brainskev/enumerable.git) to your des
 
 ```sh
   cd my-folder
-  git clone https://github.com/brainskev/enumerable.git 
+  git clone https://github.com/brainskev/enumerable.git
   cd enumerable
 ```
 
 ### Usage <a name="usage"></a>
 
-This repository includes a ruby file called ```test_my_list.rb```.
+This repository includes a ruby file called `test_my_list.rb`.
 
 - Use the following command to run the file:
+
 ```sh
   Ruby test_my_list.rb
 ```
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -105,5 +106,12 @@ If you like this project, Give a ⭐️.
 
 - Project from [Microverse](https://www.microverse.org/?grsf=i6yi2m) Ruby module
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
